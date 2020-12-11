@@ -93,3 +93,4 @@ Vue.prototype.$store = store
 
 new Vue({ ...App, mpType: 'app', store }).$mount()
 //--add
+//adddksfiwkefie
